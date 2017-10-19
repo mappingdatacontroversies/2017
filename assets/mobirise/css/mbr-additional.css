@@ -484,6 +484,9 @@ body {
 .text-black {
   color: #000000 !important;
 }
+.text-red {
+  color: #cc0033 !important;
+}
 a.text-primary:hover,
 a.text-primary:focus {
   color: #cc0033 !important;
@@ -529,7 +532,7 @@ a.text-black:focus {
   background-color: #b1a374;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
-  border-radius: 100px;
+  border-radius: 50px;
 }
 .mbr-section-btn a.btn:not(.btn-form):hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
@@ -1338,7 +1341,20 @@ body {
   min-height: 100vh;
 }
 .cid-qyjvY7saxv {
-  background-image: url("../../../assets/images/032.jpg");
+  background-image: url("assets/images/032.jpg");
+}
+.passed_tc {
+  background-image: url("../../../assets/images/jade-masri-323340.jpg");
+}
+.no_passed_tc {
+  background-image: url("../../../assets/images/jeremy-wong-298986.jpg");
+}
+.cid-qyv8YNYXbY {
+  background: linear-gradient(45deg, #e4d295, #b2ccd2);
+}
+.cid-qyv8YNYXbY .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
 }
 .cid-qyjvY7saxv .icons-media-container {
   display: flex;

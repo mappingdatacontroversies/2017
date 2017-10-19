@@ -219,8 +219,8 @@ figure[mbr-media-size] {
     width: 100% !important; } }
 /*! Buttons */
 .mbr-section-btn {
-  margin-left: -.25rem;
-  margin-right: -.25rem;
+  margin-left: -1.6rem;
+  margin-right: -1.6rem;
   font-size: 0; }
 
 nav .mbr-section-btn {
@@ -320,7 +320,7 @@ nav .mbr-section-btn {
   line-height: 1;
   font-style: normal;
   position: relative;
-  top: 6px;
+  top: 20px;
   left: -4px;
   -webkit-transform: rotate(-90deg);
   transform: rotate(-90deg); }
